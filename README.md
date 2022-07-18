@@ -6,7 +6,7 @@ Data Analysis is a process of inspecting, cleansing, transforming and modeling d
 There are two categories of tools for data analysis:
 1. **Auto-managed closed tools**: For example, Qlik, Tableau, and Power BI.
 2. **Programming Languages**: For example, Python, R, and Julia.
-  
+
 **Advantages and disadvantages of each category**
 
 - Advantages:
